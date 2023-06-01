@@ -37,7 +37,7 @@ To run the Animal Feed System Management Desktop Application:
 
 ## Contact
 
-For any inquiries or questions, please contact [basselbeso@gmail.com].
+For any inquiries or questions, please contact [basselbeso2222@gmail.com].
 
 ---
 
