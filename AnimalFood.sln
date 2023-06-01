@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFood", "AnimalFood\AnimalFood.csproj", "{CECDA6B4-6365-4697-9AD1-C9C4AB5A6CE4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AnimalFeed System", "AnimalFeed System\AnimalFeed System.vdproj", "{8DE17579-EAFA-408F-A36F-6337EC6E8ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECDA6B4-6365-4697-9AD1-C9C4AB5A6CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECDA6B4-6365-4697-9AD1-C9C4AB5A6CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECDA6B4-6365-4697-9AD1-C9C4AB5A6CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECDA6B4-6365-4697-9AD1-C9C4AB5A6CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE17579-EAFA-408F-A36F-6337EC6E8ED9}.Debug|Any CPU.ActiveCfg = Debug
+		{8DE17579-EAFA-408F-A36F-6337EC6E8ED9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9925BEB7-0949-4386-8CEE-0F7804DF1293}
+	EndGlobalSection
+EndGlobal
